@@ -1,0 +1,27 @@
+{
+  "originUrl": "https://library.westernsydney.edu.au",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://library.westernsydney.edu.au/students/referencing-citation",
+      "source": "MANUAL",
+      "targetPath": "/students/referencing-citation",
+      "id": "69cd9e2eea2e73f759dc0ed74f1bbd62a26e526f"
+    }
+  ],
+  "lastCrawled": "MANUAL",
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none"
+}
