@@ -19,10 +19,16 @@
   display: block;
 }
 
-/* Styles for columns99 variant */
+/* Styles for columns99 variant - grid layout for multiple items */
+.columns99 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px 0;
+}
+
 .columns99 > div {
-  display: flex;
-  flex-direction: column;
+  display: contents;
 }
 
 @media (width >= 900px) {
@@ -38,11 +44,8 @@
   }
 
   /* Desktop styles for columns99 variant */
-  .columns99 > div {
-    align-items: center;
-    flex-direction: row;
-    gap: 24px;
-    flex: 1;
-    order: unset;
+  .columns99 {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 30px;
   }
 }

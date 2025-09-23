@@ -51,7 +51,7 @@ import columns37Parser from './parsers/columns37.js';
 import hero38Parser from './parsers/hero38.js';
 import cards36Parser from './parsers/cards36.js';
 import cards35Parser from './parsers/cards35.js';
-import cards99Parser from './parsers/cards99.js';
+import roundedImage99Parser from './parsers/rounded-image99.js';
 import columns99Parser from './parsers/columns99.js';
 import headerParser from './parsers/header.js';
 import metadataParser from './parsers/metadata.js';
@@ -109,8 +109,8 @@ const parsers = {
   hero38: hero38Parser,
   cards36: cards36Parser,
   cards35: cards35Parser,
-  cards99: cards99Parser,
   columns99: columns99Parser,
+  'rounded-image99': roundedImage99Parser,
   ...customParsers,
 };
 

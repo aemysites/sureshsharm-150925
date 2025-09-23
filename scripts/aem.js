@@ -519,18 +519,17 @@ function decorateSections(main) {
             .filter((style) => style)
             .map((style) => toClassName(style.trim()));
           styles.forEach((style) => section.classList.add(style));
-        } else if (key === 'data-block') {
-          // Create a new div with block class and data-block value as class
-          const blockDiv = document.createElement('div');
-          blockDiv.classList.add('block', meta[key]);
-
-          // Move all children of section to the new div
-          while (section.firstChild) {
-            blockDiv.appendChild(section.firstChild);
+        } else if (key === 'block') {
+          // Add block classes directly to the section
+          const blockName = meta[key];
+          const baseBlockName = blockName.replace(/\d+$/, ''); // Remove trailing digits
+          
+          if (baseBlockName !== blockName) {
+            // If block name has trailing digits, add both base name and full name
+            section.classList.add('container-block', baseBlockName, blockName);
+          } else {
+            section.classList.add('container-block', blockName);
           }
-
-          // Append the new div to the section
-          section.appendChild(blockDiv);
         } else {
           section.dataset[toCamelCase(key)] = meta[key];
         }
