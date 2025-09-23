@@ -19,6 +19,12 @@
   display: block;
 }
 
+/* Styles for columns99 variant */
+.columns99 > div {
+  display: flex;
+  flex-direction: column;
+}
+
 @media (width >= 900px) {
   .columns > div {
     align-items: center;
@@ -27,6 +33,15 @@
   }
 
   .columns > div > div {
+    flex: 1;
+    order: unset;
+  }
+
+  /* Desktop styles for columns99 variant */
+  .columns99 > div {
+    align-items: center;
+    flex-direction: row;
+    gap: 24px;
     flex: 1;
     order: unset;
   }

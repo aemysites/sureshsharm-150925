@@ -51,6 +51,8 @@ import columns37Parser from './parsers/columns37.js';
 import hero38Parser from './parsers/hero38.js';
 import cards36Parser from './parsers/cards36.js';
 import cards35Parser from './parsers/cards35.js';
+import cards99Parser from './parsers/cards99.js';
+import columns99Parser from './parsers/columns99.js';
 import headerParser from './parsers/header.js';
 import metadataParser from './parsers/metadata.js';
 import cleanupTransformer from './transformers/cleanup.js';
@@ -107,6 +109,8 @@ const parsers = {
   hero38: hero38Parser,
   cards36: cards36Parser,
   cards35: cards35Parser,
+  cards99: cards99Parser,
+  columns99: columns99Parser,
   ...customParsers,
 };
 
@@ -204,7 +208,7 @@ function transformPage(main, { inventory, ...source }) {
   // Build parent-child relationships map for nested blocks
   const parentChildMap = new Map();
   const childParentMap = new Map();
-  
+
   inventoryBlocks.forEach((block) => {
     block.instances
       .filter((instance) => WebImporter.Import.findSiteUrl(instance, urls)?.url === originalURL)
@@ -212,7 +216,7 @@ function transformPage(main, { inventory, ...source }) {
         if (instance.nestedBlocks && Array.isArray(instance.nestedBlocks)) {
           // This instance is a parent
           parentChildMap.set(instance.uuid, instance.nestedBlocks);
-          
+
           // Map each child to its parent
           instance.nestedBlocks.forEach((childUuid) => {
             childParentMap.set(childUuid, instance.uuid);
@@ -226,7 +230,7 @@ function transformPage(main, { inventory, ...source }) {
   const parentBlocks = [];
   const childBlocks = [];
   const regularBlocks = [];
-  
+
   allElements.forEach((item) => {
     if (item.uuid && parentChildMap.has(item.uuid)) {
       parentBlocks.push(item);
@@ -253,13 +257,13 @@ function transformPage(main, { inventory, ...source }) {
       const { element = main, ...pageBlock } = item;
       const parserName = WebImporter.Import.getParserName(pageBlock);
       const parserFn = parsers[parserName];
-      
+
       try {
         let parserElement = element;
         if (typeof parserElement === 'string') {
           parserElement = main.querySelector(parserElement);
         }
-        
+
         // before parse hook
         WebImporter.Import.transform(
           TransformHook.beforeParse,
@@ -270,13 +274,13 @@ function transformPage(main, { inventory, ...source }) {
             nextEl: arr[idx + 1],
           },
         );
-        
+
         // Special handling for nested blocks
         if (item.uuid && parentChildMap.has(item.uuid)) {
           // This is a parent block - parse normally and store section reference
           if (parserFn) {
             parserFn.call(this, parserElement, { ...source });
-            
+
             // Find the created section (look for the content div created by parent parser)
             const parentSection = main.querySelector('.parent-block-content');
             if (parentSection) {
@@ -287,21 +291,21 @@ function transformPage(main, { inventory, ...source }) {
           // This is a child block - parse and place inside parent section
           const parentUuid = childParentMap.get(item.uuid);
           const parentSection = parentSections.get(parentUuid);
-          
+
           if (parserFn && parentSection) {
             // Create a temporary container for the child block
             const tempContainer = document.createElement('div');
             tempContainer.appendChild(parserElement.cloneNode(true));
-            
+
             // Parse the child block in the temporary container
             const tempElement = tempContainer.firstChild;
             parserFn.call(this, tempElement, { ...source });
-            
+
             // Move the parsed child block into the parent section
             while (tempContainer.firstChild) {
               parentSection.appendChild(tempContainer.firstChild);
             }
-            
+
             // Remove the original child element from its location
             parserElement.remove();
           } else if (parserFn) {
@@ -314,7 +318,7 @@ function transformPage(main, { inventory, ...source }) {
             parserFn.call(this, parserElement, { ...source });
           }
         }
-        
+
         // after parse hook
         WebImporter.Import.transform(
           TransformHook.afterParse,

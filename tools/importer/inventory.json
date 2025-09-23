@@ -211,11 +211,11 @@
       ]
     },
     {
-      "name": "Cards",
+      "name": "Rounded-Image",
       "cluster": 99,
-      "source": "Cards",
-      "target": "Cards (cards99)",
-      "key": "cards99",
+      "source": "Rounded-Image",
+      "target": "Rounded-Image",
+      "key": "rounded-image",
       "instances": [
         {
           "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
