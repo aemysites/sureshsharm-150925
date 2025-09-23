@@ -519,6 +519,18 @@ function decorateSections(main) {
             .filter((style) => style)
             .map((style) => toClassName(style.trim()));
           styles.forEach((style) => section.classList.add(style));
+        } else if (key === 'data-block') {
+          // Create a new div with block class and data-block value as class
+          const blockDiv = document.createElement('div');
+          blockDiv.classList.add('block', meta[key]);
+
+          // Move all children of section to the new div
+          while (section.firstChild) {
+            blockDiv.appendChild(section.firstChild);
+          }
+
+          // Append the new div to the section
+          section.appendChild(blockDiv);
         } else {
           section.dataset[toCamelCase(key)] = meta[key];
         }

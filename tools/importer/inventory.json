@@ -181,12 +181,6 @@
           "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[1]"
         },
         {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
-          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
-          "uuid": "9b4d89f8-05-763479c3261fc43016e8eafc05c8ea8587e61655",
-          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[2]"
-        },
-        {
           "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
           "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
           "uuid": "f5e20053-05-28a9b8a4613e4ebb7b85814fd3998dfa3ff3ea64",
@@ -197,6 +191,55 @@
           "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
           "uuid": "f5e20053-06-763479c3261fc43016e8eafc05c8ea8587e61655",
           "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 99,
+      "source": "Columns",
+      "target": "Columns (columns99)",
+      "key": "columns99",
+      "instances": [
+        {
+          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
+          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
+          "uuid": "9b4d89f8-05-763479c3261fc43016e8eafc05c8ea8587e61655",
+          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[2]",
+          "nestedBlocks": ["9b4d89f8-05-763479c3261fc43016e8eafc05c8ea8587e616552", "9b4d89f8-05-763479c3261fc43016e8eafc05c8ea8587e616553", "9b4d89f8-05-763479c3261fc43016e8eafc05c8ea8587e616554", "9b4d89f8-05-763479c3261fc43016e8eafc05c8ea8587e616555"]
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 99,
+      "source": "Cards",
+      "target": "Cards (cards99)",
+      "key": "cards99",
+      "instances": [
+        {
+          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
+          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
+          "uuid": "9b4d89f8-05-763479c3261fc43016e8eafc05c8ea8587e616552",
+          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[2]/div[2]"
+        },
+        {
+          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
+          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
+          "uuid": "9b4d89f8-05-763479c3261fc43016e8eafc05c8ea8587e616553",
+          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[2]/div[3]"
+        },
+        {
+          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
+          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
+          "uuid": "9b4d89f8-05-763479c3261fc43016e8eafc05c8ea8587e616554",
+          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[2]/div[4]"
+        },
+        {
+          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
+          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
+          "uuid": "9b4d89f8-05-763479c3261fc43016e8eafc05c8ea8587e616555",
+          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[2]/div[5]"
         }
       ]
     },
