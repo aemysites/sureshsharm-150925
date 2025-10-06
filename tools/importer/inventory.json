@@ -6,81 +6,20 @@
       "totalBoxes": 1,
       "instances": [
         {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-stories",
-          "urlHash": "0ce90e70ef4e1fb12be408961b1f59c6c28dfd0c",
-          "uuid": "0ce90e70-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]"
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+          "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+          "uuid": "7f761304-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
         },
         {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
-          "urlHash": "1a14744466075b2d00884f27fb69e2633b6fcb84",
-          "uuid": "1a147444-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/",
-          "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-          "uuid": "1b9ba84f-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-of-the-season",
-          "urlHash": "1cfeb2756419a8f56a89a355f5557c3321845adb",
-          "uuid": "1cfeb275-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/faq",
-          "urlHash": "429d6f000c5a6e38a121160bf56d01b17365cffe",
-          "uuid": "429d6f00-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-insights",
-          "urlHash": "67430c465ff7767e6ae98a0cffa44cd32754a351",
-          "uuid": "67430c46-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
-          "urlHash": "971148fccf483ccd07f6ef722bc01c7fb46f61d5",
-          "uuid": "971148fc-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
-          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
-          "uuid": "9b4d89f8-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-style",
-          "urlHash": "be00f351b0490d8b536bf724216d6530c30d5684",
-          "uuid": "be00f351-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-          "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-          "uuid": "d2dd722d-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
-          "urlHash": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf",
-          "uuid": "f5bdda37-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
-          "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
-          "uuid": "f5e20053-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]"
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing/contact-us",
+          "urlHash": "c81b572e82ad802670c91881f5272fc2c866c1b5",
+          "uuid": "c81b572e-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
         }
       ],
       "styles": {
-        "height": 75,
-        "background": "rgb(247, 248, 245) none repeat scroll 0% 0% / auto padding-box border-box"
+        "height": 80
       }
     },
     {
@@ -89,234 +28,126 @@
       "totalBoxes": 1,
       "instances": [
         {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-stories",
-          "urlHash": "0ce90e70ef4e1fb12be408961b1f59c6c28dfd0c",
-          "uuid": "0ce90e70-07-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+          "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+          "uuid": "7f761304-11-a41b86b8b3ddc003fd5e84cf0c89375fa91d347e",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[6]"
         },
         {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
-          "urlHash": "1a14744466075b2d00884f27fb69e2633b6fcb84",
-          "uuid": "1a147444-06-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/",
-          "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-          "uuid": "1b9ba84f-12-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-of-the-season",
-          "urlHash": "1cfeb2756419a8f56a89a355f5557c3321845adb",
-          "uuid": "1cfeb275-08-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/faq",
-          "urlHash": "429d6f000c5a6e38a121160bf56d01b17365cffe",
-          "uuid": "429d6f00-05-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-insights",
-          "urlHash": "67430c465ff7767e6ae98a0cffa44cd32754a351",
-          "uuid": "67430c46-07-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
-          "urlHash": "971148fccf483ccd07f6ef722bc01c7fb46f61d5",
-          "uuid": "971148fc-09-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
-          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
-          "uuid": "9b4d89f8-08-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-style",
-          "urlHash": "be00f351b0490d8b536bf724216d6530c30d5684",
-          "uuid": "be00f351-07-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-          "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-          "uuid": "d2dd722d-12-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
-          "urlHash": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf",
-          "uuid": "f5bdda37-10-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
-          "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
-          "uuid": "f5e20053-09-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]"
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing/contact-us",
+          "urlHash": "c81b572e82ad802670c91881f5272fc2c866c1b5",
+          "uuid": "c81b572e-08-395cc627779fc58b91e3f44d83655c6781d21f7d",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[4]/div[1]/ul[1]"
         }
       ],
       "styles": {
-        "background": "rgb(0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box"
+        "background": "rgb(0, 93, 174) none repeat scroll 0% 0% / auto padding-box border-box"
       }
     }
   ],
   "blocks": [
     {
-      "name": "Columns",
+      "name": "header",
       "cluster": 1,
-      "source": "Columns",
-      "target": "Columns (columns1)",
-      "key": "columns1",
+      "source": "Header",
+      "target": "Header (header1)",
+      "key": "header1",
       "instances": [
         {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
-          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
-          "uuid": "9b4d89f8-04-28a9b8a4613e4ebb7b85814fd3998dfa3ff3ea64",
-          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
-          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
-          "uuid": "9b4d89f8-05-763479c3261fc43016e8eafc05c8ea8587e61655",
-          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
-          "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
-          "uuid": "f5e20053-05-28a9b8a4613e4ebb7b85814fd3998dfa3ff3ea64",
-          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
-          "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
-          "uuid": "f5e20053-06-763479c3261fc43016e8eafc05c8ea8587e61655",
-          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]/div[2]"
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+          "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+          "uuid": "7f761304-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
         }
       ]
     },
     {
-      "name": "Cards",
+      "name": "Columns",
       "cluster": 2,
-      "source": "Cards",
-      "target": "Cards (cards2)",
-      "key": "cards2",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-stories",
-          "urlHash": "0ce90e70ef4e1fb12be408961b1f59c6c28dfd0c",
-          "uuid": "0ce90e70-03-a27d6a564ded217577666251c62dd15fe27c1901",
-          "xpath": "/html[1]/body[1]/section[2]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-style",
-          "urlHash": "be00f351b0490d8b536bf724216d6530c30d5684",
-          "uuid": "be00f351-03-a27d6a564ded217577666251c62dd15fe27c1901",
-          "xpath": "/html[1]/body[1]/section[2]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 3,
       "source": "Columns",
-      "target": "Columns (columns3)",
-      "key": "columns3",
+      "target": "Columns (columns2)",
+      "key": "columns2",
       "instances": [
         {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
-          "urlHash": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf",
-          "uuid": "f5bdda37-01-b2c8ec8cc7206114599cd049698cc67e0e048d63",
-          "xpath": "/html[1]/body[1]/header[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
-          "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
-          "uuid": "f5e20053-01-b2c8ec8cc7206114599cd049698cc67e0e048d63",
-          "xpath": "/html[1]/body[1]/header[1]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 4,
-      "source": "Columns",
-      "target": "Columns (columns4)",
-      "key": "columns4",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/",
-          "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-          "uuid": "1b9ba84f-11-2543d43dac63c32e3ccae4aae2045cbf1572ea04",
-          "xpath": "/html[1]/body[1]/section[5]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 5,
-      "source": "Columns",
-      "target": "Columns (columns5)",
-      "key": "columns5",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
-          "urlHash": "971148fccf483ccd07f6ef722bc01c7fb46f61d5",
-          "uuid": "971148fc-03-c498d593a5bc97467d867eb87705c763456c87bd",
-          "xpath": "/html[1]/body[1]/section[1]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
-          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
-          "uuid": "9b4d89f8-02-c498d593a5bc97467d867eb87705c763456c87bd",
-          "xpath": "/html[1]/body[1]/section[1]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 6,
-      "source": "Hero",
-      "target": "Hero (hero6)",
-      "key": "hero6",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
-          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
-          "uuid": "9b4d89f8-01-b2c8ec8cc7206114599cd049698cc67e0e048d63",
-          "xpath": "/html[1]/body[1]/header[1]",
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+          "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+          "uuid": "7f761304-05-85d6e50db7dce0e51d22ead0834b4ef2d238ad00",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[3]/div[1]/ul[1]",
           "section": "section-2"
         }
       ]
     },
     {
-      "name": "Cards",
-      "cluster": 7,
-      "source": "Cards",
-      "target": "Cards (cards7)",
-      "key": "cards7",
+      "name": "Carousel",
+      "cluster": 3,
+      "source": "Carousel",
+      "target": "Carousel (carousel3)",
+      "key": "carousel3",
       "instances": [
         {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-of-the-season",
-          "urlHash": "1cfeb2756419a8f56a89a355f5557c3321845adb",
-          "uuid": "1cfeb275-04-261c42ba0b32bcb3fb5c83c560b10c2435ad553d",
-          "xpath": "/html[1]/body[1]/section[2]/div[1]/div[2]",
-          "section": "section-1"
-        },
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+          "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+          "uuid": "7f761304-06-fa250c3286d7156365ffc6d2e61de11cceebd6a2",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 4,
+      "source": "Cards",
+      "target": "Cards (cards4)",
+      "key": "cards4",
+      "instances": [
         {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-          "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-          "uuid": "d2dd722d-10-eadf6a6abca85dfbd8029464354f763b41bb12a6",
-          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[2]"
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+          "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+          "uuid": "7f761304-09-760334284ef1277a17a73775ebb26d447fda280d",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 5,
+      "instances": [
+        {
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+          "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+          "uuid": "7f761304-11-a41b86b8b3ddc003fd5e84cf0c89375fa91d347e",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[6]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 6,
+      "source": "Header",
+      "target": "Header (header6)",
+      "key": "header6",
+      "instances": [
+        {
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing/contact-us",
+          "urlHash": "c81b572e82ad802670c91881f5272fc2c866c1b5",
+          "uuid": "c81b572e-00-6df8f4543caf3607c339ed9b102242abc3870e7f",
+          "xpath": "/html[1]/body[1]/div[2]/header[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 7,
+      "source": "Hero",
+      "target": "Hero (hero7)",
+      "key": "hero7",
+      "instances": [
+        {
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing/contact-us",
+          "urlHash": "c81b572e82ad802670c91881f5272fc2c866c1b5",
+          "uuid": "c81b572e-01-2bb991bc29fcadd03df198f5f656df69641c6741",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[1]",
+          "section": "section-3"
         }
       ]
     },
@@ -328,16 +159,11 @@
       "key": "columns8",
       "instances": [
         {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
-          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
-          "uuid": "9b4d89f8-06-bcf58b63085bee4597101c756c702eb86af612c8",
-          "xpath": "/html[1]/body[1]/section[3]/div[2]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
-          "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
-          "uuid": "f5e20053-07-bcf58b63085bee4597101c756c702eb86af612c8",
-          "xpath": "/html[1]/body[1]/section[3]/div[2]"
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing/contact-us",
+          "urlHash": "c81b572e82ad802670c91881f5272fc2c866c1b5",
+          "uuid": "c81b572e-03-daddf440a2b19b712c426e85a9b90b4a43138160",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[2]/div[4]/ul[1]",
+          "section": "section-2"
         }
       ]
     },
@@ -349,704 +175,25 @@
       "key": "columns9",
       "instances": [
         {
-          "url": "https://www.wknd-trendsetters.site/faq",
-          "urlHash": "429d6f000c5a6e38a121160bf56d01b17365cffe",
-          "uuid": "429d6f00-03-a27d6a564ded217577666251c62dd15fe27c1901",
-          "xpath": "/html[1]/body[1]/section[2]"
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing/contact-us",
+          "urlHash": "c81b572e82ad802670c91881f5272fc2c866c1b5",
+          "uuid": "c81b572e-06-1e3d95cee6a43c9de118c1fa51f14f62e91d946e",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[3]"
         }
       ]
     },
     {
-      "name": "Cards",
+      "name": "Columns",
       "cluster": 10,
-      "source": "Cards",
-      "target": "Cards (cards10)",
-      "key": "cards10",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
-          "urlHash": "1a14744466075b2d00884f27fb69e2633b6fcb84",
-          "uuid": "1a147444-04-261c42ba0b32bcb3fb5c83c560b10c2435ad553d",
-          "xpath": "/html[1]/body[1]/section[2]/div[1]/div[2]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
-          "urlHash": "971148fccf483ccd07f6ef722bc01c7fb46f61d5",
-          "uuid": "971148fc-05-261c42ba0b32bcb3fb5c83c560b10c2435ad553d",
-          "xpath": "/html[1]/body[1]/section[2]/div[1]/div[2]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
-          "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
-          "uuid": "f5e20053-04-261c42ba0b32bcb3fb5c83c560b10c2435ad553d",
-          "xpath": "/html[1]/body[1]/section[2]/div[1]/div[2]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 11,
       "source": "Columns",
-      "target": "Columns (columns11)",
-      "key": "columns11",
+      "target": "Columns (columns10)",
+      "key": "columns10",
       "instances": [
         {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
-          "urlHash": "1a14744466075b2d00884f27fb69e2633b6fcb84",
-          "uuid": "1a147444-02-c498d593a5bc97467d867eb87705c763456c87bd",
-          "xpath": "/html[1]/body[1]/section[1]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 12,
-      "source": "Cards",
-      "target": "Cards (cards12)",
-      "key": "cards12",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-insights",
-          "urlHash": "67430c465ff7767e6ae98a0cffa44cd32754a351",
-          "uuid": "67430c46-03-adda47d09d7763b69d96936602e835dec2004e55",
-          "xpath": "/html[1]/body[1]/section[1]/div[1]/div[2]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-          "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-          "uuid": "d2dd722d-08-261c42ba0b32bcb3fb5c83c560b10c2435ad553d",
-          "xpath": "/html[1]/body[1]/section[2]/div[1]/div[2]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 13,
-      "source": "Hero",
-      "target": "Hero (hero13)",
-      "key": "hero13",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-style",
-          "urlHash": "be00f351b0490d8b536bf724216d6530c30d5684",
-          "uuid": "be00f351-06-796e849cb17320ad9140c2a1b41bb8d247c7d309",
-          "xpath": "/html[1]/body[1]/section[4]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
-          "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
-          "uuid": "f5e20053-08-796e849cb17320ad9140c2a1b41bb8d247c7d309",
-          "xpath": "/html[1]/body[1]/section[4]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "header",
-      "cluster": 14,
-      "source": "Header",
-      "target": "Header (header14)",
-      "key": "header14",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-stories",
-          "urlHash": "0ce90e70ef4e1fb12be408961b1f59c6c28dfd0c",
-          "uuid": "0ce90e70-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
-          "urlHash": "1a14744466075b2d00884f27fb69e2633b6fcb84",
-          "uuid": "1a147444-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/",
-          "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-          "uuid": "1b9ba84f-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-of-the-season",
-          "urlHash": "1cfeb2756419a8f56a89a355f5557c3321845adb",
-          "uuid": "1cfeb275-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/faq",
-          "urlHash": "429d6f000c5a6e38a121160bf56d01b17365cffe",
-          "uuid": "429d6f00-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-insights",
-          "urlHash": "67430c465ff7767e6ae98a0cffa44cd32754a351",
-          "uuid": "67430c46-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
-          "urlHash": "971148fccf483ccd07f6ef722bc01c7fb46f61d5",
-          "uuid": "971148fc-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
-          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
-          "uuid": "9b4d89f8-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-style",
-          "urlHash": "be00f351b0490d8b536bf724216d6530c30d5684",
-          "uuid": "be00f351-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-          "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-          "uuid": "d2dd722d-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
-          "urlHash": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf",
-          "uuid": "f5bdda37-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]",
-          "section": "section-1"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
-          "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
-          "uuid": "f5e20053-00-6e70765a003047818ea5700b557b8d01b43078df",
-          "xpath": "/html[1]/body[1]/div[1]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 15,
-      "source": "Columns",
-      "target": "Columns (columns15)",
-      "key": "columns15",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
-          "urlHash": "971148fccf483ccd07f6ef722bc01c7fb46f61d5",
-          "uuid": "971148fc-02-873b5b39c6b5d572aa5cc0b5054ab72ce2bd28e5",
-          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[2]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 16,
-      "source": "Columns",
-      "target": "Columns (columns16)",
-      "key": "columns16",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
-          "urlHash": "1a14744466075b2d00884f27fb69e2633b6fcb84",
-          "uuid": "1a147444-05-f1fc93ab3e21904951fd9ec2cb1dd9218e350e1d",
-          "xpath": "/html[1]/body[1]/section[3]"
-        }
-      ]
-    },
-    {
-      "name": "Accordion",
-      "cluster": 17,
-      "source": "Accordion",
-      "target": "Accordion (accordion17)",
-      "key": "accordion17",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/",
-          "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-          "uuid": "1b9ba84f-10-d6e8337d5ab20159acc6ca0a1ea736639b279659",
-          "xpath": "/html[1]/body[1]/section[4]/div[1]/div[2]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 18,
-      "source": "Columns",
-      "target": "Columns (columns18)",
-      "key": "columns18",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/faq",
-          "urlHash": "429d6f000c5a6e38a121160bf56d01b17365cffe",
-          "uuid": "429d6f00-02-adda47d09d7763b69d96936602e835dec2004e55",
-          "xpath": "/html[1]/body[1]/section[1]/div[1]/div[2]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 19,
-      "source": "Cards",
-      "target": "Cards (cards19)",
-      "key": "cards19",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/",
-          "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-          "uuid": "1b9ba84f-04-69306c16bac5563398ce327c71e7f1e9493b6265",
-          "xpath": "/html[1]/body[1]/section[1]/div[1]/div[1]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 20,
-      "source": "Hero",
-      "target": "Hero (hero20)",
-      "key": "hero20",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-of-the-season",
-          "urlHash": "1cfeb2756419a8f56a89a355f5557c3321845adb",
-          "uuid": "1cfeb275-01-b2c8ec8cc7206114599cd049698cc67e0e048d63",
-          "xpath": "/html[1]/body[1]/header[1]",
-          "section": "section-2"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 21,
-      "source": "Columns",
-      "target": "Columns (columns21)",
-      "key": "columns21",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-stories",
-          "urlHash": "0ce90e70ef4e1fb12be408961b1f59c6c28dfd0c",
-          "uuid": "0ce90e70-07-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
-          "urlHash": "1a14744466075b2d00884f27fb69e2633b6fcb84",
-          "uuid": "1a147444-06-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/",
-          "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-          "uuid": "1b9ba84f-12-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-of-the-season",
-          "urlHash": "1cfeb2756419a8f56a89a355f5557c3321845adb",
-          "uuid": "1cfeb275-08-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/faq",
-          "urlHash": "429d6f000c5a6e38a121160bf56d01b17365cffe",
-          "uuid": "429d6f00-05-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-insights",
-          "urlHash": "67430c465ff7767e6ae98a0cffa44cd32754a351",
-          "uuid": "67430c46-07-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
-          "urlHash": "971148fccf483ccd07f6ef722bc01c7fb46f61d5",
-          "uuid": "971148fc-09-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
-          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
-          "uuid": "9b4d89f8-08-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-style",
-          "urlHash": "be00f351b0490d8b536bf724216d6530c30d5684",
-          "uuid": "be00f351-07-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-          "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-          "uuid": "d2dd722d-12-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
-          "urlHash": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf",
-          "uuid": "f5bdda37-10-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]",
-          "section": "section-2"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
-          "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
-          "uuid": "f5e20053-09-a507e040135207256fc0c4fd07f12510b5a9e729",
-          "xpath": "/html[1]/body[1]/footer[1]",
-          "section": "section-2"
-        }
-      ]
-    },
-    {
-      "name": "Tabs",
-      "cluster": 22,
-      "source": "Tabs",
-      "target": "Tabs (tabs22)",
-      "key": "tabs22",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/",
-          "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-          "uuid": "1b9ba84f-08-7c4b411c256121bb1e0e58c581250626ad209dca",
-          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]",
-          "section": "section-2"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 23,
-      "source": "Cards",
-      "target": "Cards (cards23)",
-      "key": "cards23",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
-          "urlHash": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf",
-          "uuid": "f5bdda37-05-9ce9fa8be76da29101f567649a5fe06e75efa88b",
-          "xpath": "/html[1]/body[1]/section[2]/div[1]/div[1]/div[2]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Carousel",
-      "cluster": 24,
-      "source": "Carousel",
-      "target": "Carousel (carousel24)",
-      "key": "carousel24",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-          "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-          "uuid": "d2dd722d-03-5380efb405958d016cffe4ab7dfce4111d297015",
-          "xpath": "/html[1]/body[1]/header[1]/div[2]/div[2]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 25,
-      "source": "Hero",
-      "target": "Hero (hero25)",
-      "key": "hero25",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-stories",
-          "urlHash": "0ce90e70ef4e1fb12be408961b1f59c6c28dfd0c",
-          "uuid": "0ce90e70-01-b2c8ec8cc7206114599cd049698cc67e0e048d63",
-          "xpath": "/html[1]/body[1]/header[1]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 26,
-      "source": "Cards",
-      "target": "Cards (cards26)",
-      "key": "cards26",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-stories",
-          "urlHash": "0ce90e70ef4e1fb12be408961b1f59c6c28dfd0c",
-          "uuid": "0ce90e70-05-eadf6a6abca85dfbd8029464354f763b41bb12a6",
-          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
-          "urlHash": "971148fccf483ccd07f6ef722bc01c7fb46f61d5",
-          "uuid": "971148fc-07-eadf6a6abca85dfbd8029464354f763b41bb12a6",
-          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[2]"
-        },
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
-          "urlHash": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf",
-          "uuid": "f5bdda37-07-eadf6a6abca85dfbd8029464354f763b41bb12a6",
-          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[2]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 27,
-      "source": "Columns",
-      "target": "Columns (columns27)",
-      "key": "columns27",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
-          "urlHash": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf",
-          "uuid": "f5bdda37-08-796e849cb17320ad9140c2a1b41bb8d247c7d309",
-          "xpath": "/html[1]/body[1]/section[4]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 28,
-      "source": "Columns",
-      "target": "Columns (columns28)",
-      "key": "columns28",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
-          "urlHash": "971148fccf483ccd07f6ef722bc01c7fb46f61d5",
-          "uuid": "971148fc-08-796e849cb17320ad9140c2a1b41bb8d247c7d309",
-          "xpath": "/html[1]/body[1]/section[4]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 29,
-      "source": "Hero",
-      "target": "Hero (hero29)",
-      "key": "hero29",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-insights",
-          "urlHash": "67430c465ff7767e6ae98a0cffa44cd32754a351",
-          "uuid": "67430c46-01-b2c8ec8cc7206114599cd049698cc67e0e048d63",
-          "xpath": "/html[1]/body[1]/header[1]",
-          "section": "section-2"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 30,
-      "source": "Columns",
-      "target": "Columns (columns30)",
-      "key": "columns30",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/",
-          "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-          "uuid": "1b9ba84f-02-a4e8d78da6e5b4998fbb5ce0f6afa7284e895f2e",
-          "xpath": "/html[1]/body[1]/header[1]/div[2]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 31,
-      "source": "Columns",
-      "target": "Columns (columns31)",
-      "key": "columns31",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
-          "urlHash": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf",
-          "uuid": "f5bdda37-02-c498d593a5bc97467d867eb87705c763456c87bd",
-          "xpath": "/html[1]/body[1]/section[1]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 32,
-      "source": "Columns",
-      "target": "Columns (columns32)",
-      "key": "columns32",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-stories",
-          "urlHash": "0ce90e70ef4e1fb12be408961b1f59c6c28dfd0c",
-          "uuid": "0ce90e70-02-c498d593a5bc97467d867eb87705c763456c87bd",
-          "xpath": "/html[1]/body[1]/section[1]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 33,
-      "source": "Columns",
-      "target": "Columns (columns33)",
-      "key": "columns33",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-style",
-          "urlHash": "be00f351b0490d8b536bf724216d6530c30d5684",
-          "uuid": "be00f351-02-c498d593a5bc97467d867eb87705c763456c87bd",
-          "xpath": "/html[1]/body[1]/section[1]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 34,
-      "source": "Cards",
-      "target": "Cards (cards34)",
-      "key": "cards34",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/",
-          "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-          "uuid": "1b9ba84f-07-261c42ba0b32bcb3fb5c83c560b10c2435ad553d",
-          "xpath": "/html[1]/body[1]/section[2]/div[1]/div[2]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 35,
-      "source": "Cards",
-      "target": "Cards (cards35)",
-      "key": "cards35",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-insights",
-          "urlHash": "67430c465ff7767e6ae98a0cffa44cd32754a351",
-          "uuid": "67430c46-05-261c42ba0b32bcb3fb5c83c560b10c2435ad553d",
-          "xpath": "/html[1]/body[1]/section[2]/div[1]/div[2]"
-        }
-      ]
-    },
-    {
-      "name": "Cards",
-      "cluster": 36,
-      "source": "Cards",
-      "target": "Cards (cards36)",
-      "key": "cards36",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-of-the-season",
-          "urlHash": "1cfeb2756419a8f56a89a355f5557c3321845adb",
-          "uuid": "1cfeb275-06-eadf6a6abca85dfbd8029464354f763b41bb12a6",
-          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[2]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 37,
-      "source": "Columns",
-      "target": "Columns (columns37)",
-      "key": "columns37",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
-          "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
-          "uuid": "9b4d89f8-03-a27d6a564ded217577666251c62dd15fe27c1901",
-          "xpath": "/html[1]/body[1]/section[2]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 38,
-      "source": "Hero",
-      "target": "Hero (hero38)",
-      "key": "hero38",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
-          "urlHash": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf",
-          "uuid": "f5bdda37-09-2543d43dac63c32e3ccae4aae2045cbf1572ea04",
-          "xpath": "/html[1]/body[1]/section[5]"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 39,
-      "source": "Columns",
-      "target": "Columns (columns39)",
-      "key": "columns39",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-style",
-          "urlHash": "be00f351b0490d8b536bf724216d6530c30d5684",
-          "uuid": "be00f351-01-b2c8ec8cc7206114599cd049698cc67e0e048d63",
-          "xpath": "/html[1]/body[1]/header[1]",
-          "section": "section-1"
-        }
-      ]
-    },
-    {
-      "name": "Columns",
-      "cluster": 40,
-      "source": "Columns",
-      "target": "Columns (columns40)",
-      "key": "columns40",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-style",
-          "urlHash": "be00f351b0490d8b536bf724216d6530c30d5684",
-          "uuid": "be00f351-05-eadf6a6abca85dfbd8029464354f763b41bb12a6",
-          "xpath": "/html[1]/body[1]/section[3]/div[1]/div[2]"
-        }
-      ]
-    },
-    {
-      "name": "Hero",
-      "cluster": 41,
-      "source": "Hero",
-      "target": "Hero (hero41)",
-      "key": "hero41",
-      "instances": [
-        {
-          "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
-          "urlHash": "1a14744466075b2d00884f27fb69e2633b6fcb84",
-          "uuid": "1a147444-01-b2c8ec8cc7206114599cd049698cc67e0e048d63",
-          "xpath": "/html[1]/body[1]/header[1]",
+          "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing/contact-us",
+          "urlHash": "c81b572e82ad802670c91881f5272fc2c866c1b5",
+          "uuid": "c81b572e-08-395cc627779fc58b91e3f44d83655c6781d21f7d",
+          "xpath": "/html[1]/body[1]/div[2]/div[3]/div[4]/div[1]/ul[1]",
           "section": "section-2"
         }
       ]
@@ -1054,249 +201,95 @@
   ],
   "outliers": [
     {
-      "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-stories",
-      "urlHash": "0ce90e70ef4e1fb12be408961b1f59c6c28dfd0c",
-      "uuid": "0ce90e70-04-7c4b411c256121bb1e0e58c581250626ad209dca",
-      "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]"
+      "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+      "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+      "uuid": "7f761304-01-d56188ed7ea44a5e20bb3014bd5e44a3fb988093",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[2]",
+      "section": "section-1"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-stories",
-      "urlHash": "0ce90e70ef4e1fb12be408961b1f59c6c28dfd0c",
-      "uuid": "0ce90e70-06-796e849cb17320ad9140c2a1b41bb8d247c7d309",
-      "xpath": "/html[1]/body[1]/section[4]",
+      "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+      "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+      "uuid": "7f761304-02-b50e820cd8dbfe590130f4b0c1215cc26d4c3f21",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[3]/div[1]/h1[1]",
       "section": "section-2"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults-casual-sport",
-      "urlHash": "1a14744466075b2d00884f27fb69e2633b6fcb84",
-      "uuid": "1a147444-03-f3bed983a6611794488e2f927319697f2e0241b2",
-      "xpath": "/html[1]/body[1]/section[2]/div[1]/div[1]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/",
-      "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-      "uuid": "1b9ba84f-01-70928af0e9d7f0ac1f13f2d60f543d2cf08783dd",
-      "xpath": "/html[1]/body[1]/header[1]/div[1]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/",
-      "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-      "uuid": "1b9ba84f-03-5ca35d327fe38541f922f7ca000528089974c8ac",
-      "xpath": "/html[1]/body[1]/section[1]/div[1]/h2[1]"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/",
-      "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-      "uuid": "1b9ba84f-05-adda47d09d7763b69d96936602e835dec2004e55",
-      "xpath": "/html[1]/body[1]/section[1]/div[1]/div[2]"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/",
-      "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-      "uuid": "1b9ba84f-06-f3bed983a6611794488e2f927319697f2e0241b2",
-      "xpath": "/html[1]/body[1]/section[2]/div[1]/div[1]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/",
-      "urlHash": "1b9ba84f36ee3a519917302a79dfd970725bae31",
-      "uuid": "1b9ba84f-09-fa7cfbd97e67d1a5b40f91d24997450830c17770",
-      "xpath": "/html[1]/body[1]/section[4]/div[1]/div[1]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-of-the-season",
-      "urlHash": "1cfeb2756419a8f56a89a355f5557c3321845adb",
-      "uuid": "1cfeb275-02-c498d593a5bc97467d867eb87705c763456c87bd",
-      "xpath": "/html[1]/body[1]/section[1]"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-of-the-season",
-      "urlHash": "1cfeb2756419a8f56a89a355f5557c3321845adb",
-      "uuid": "1cfeb275-03-f3bed983a6611794488e2f927319697f2e0241b2",
-      "xpath": "/html[1]/body[1]/section[2]/div[1]/div[1]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-of-the-season",
-      "urlHash": "1cfeb2756419a8f56a89a355f5557c3321845adb",
-      "uuid": "1cfeb275-05-7c4b411c256121bb1e0e58c581250626ad209dca",
-      "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-of-the-season",
-      "urlHash": "1cfeb2756419a8f56a89a355f5557c3321845adb",
-      "uuid": "1cfeb275-07-796e849cb17320ad9140c2a1b41bb8d247c7d309",
-      "xpath": "/html[1]/body[1]/section[4]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/faq",
-      "urlHash": "429d6f000c5a6e38a121160bf56d01b17365cffe",
-      "uuid": "429d6f00-01-69306c16bac5563398ce327c71e7f1e9493b6265",
-      "xpath": "/html[1]/body[1]/section[1]/div[1]/div[1]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/faq",
-      "urlHash": "429d6f000c5a6e38a121160bf56d01b17365cffe",
-      "uuid": "429d6f00-04-f1fc93ab3e21904951fd9ec2cb1dd9218e350e1d",
-      "xpath": "/html[1]/body[1]/section[3]",
+      "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+      "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+      "uuid": "7f761304-03-560de46cc266ded6d22af2c62196ba0e4db41cd4",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[3]/div[1]/p[1]",
       "section": "section-2"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/fashion-insights",
-      "urlHash": "67430c465ff7767e6ae98a0cffa44cd32754a351",
-      "uuid": "67430c46-02-69306c16bac5563398ce327c71e7f1e9493b6265",
-      "xpath": "/html[1]/body[1]/section[1]/div[1]/div[1]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/fashion-insights",
-      "urlHash": "67430c465ff7767e6ae98a0cffa44cd32754a351",
-      "uuid": "67430c46-04-f3bed983a6611794488e2f927319697f2e0241b2",
-      "xpath": "/html[1]/body[1]/section[2]/div[1]/div[1]"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/fashion-insights",
-      "urlHash": "67430c465ff7767e6ae98a0cffa44cd32754a351",
-      "uuid": "67430c46-06-f1fc93ab3e21904951fd9ec2cb1dd9218e350e1d",
-      "xpath": "/html[1]/body[1]/section[3]",
+      "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+      "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+      "uuid": "7f761304-04-215294ccce86d3905c32b816542f19ab169cad3c",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[3]/div[1]/h3[1]",
       "section": "section-2"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
-      "urlHash": "971148fccf483ccd07f6ef722bc01c7fb46f61d5",
-      "uuid": "971148fc-01-9a910a93cc9f9727e06a6fcf257f590337ccb394",
-      "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]",
-      "section": "section-1"
+      "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+      "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+      "uuid": "7f761304-07-8cff8ea5baa024517d2d642b3bb9c0b3bcf4b28d",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[5]/div[1]/div[1]/div[1]/div[1]"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
-      "urlHash": "971148fccf483ccd07f6ef722bc01c7fb46f61d5",
-      "uuid": "971148fc-04-f3bed983a6611794488e2f927319697f2e0241b2",
-      "xpath": "/html[1]/body[1]/section[2]/div[1]/div[1]",
-      "section": "section-1"
+      "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+      "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+      "uuid": "7f761304-08-e7e89c9845c21318af3121fcc774f16774273129",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[5]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/div[1]/p[1]"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/blog/latest-trends-young-casual-fashion",
-      "urlHash": "971148fccf483ccd07f6ef722bc01c7fb46f61d5",
-      "uuid": "971148fc-06-7c4b411c256121bb1e0e58c581250626ad209dca",
-      "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]"
+      "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing",
+      "urlHash": "7f7613045765a20e4d8233638e261aa478e9d0a9",
+      "uuid": "7f761304-10-ea3d541e1224e3ba1d3a4837a17947e2c717b168",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/blog/fashion-blog-post",
-      "urlHash": "9b4d89f80efba6f8dbcb1e3da8ea8ffa8771a959",
-      "uuid": "9b4d89f8-07-796e849cb17320ad9140c2a1b41bb8d247c7d309",
-      "xpath": "/html[1]/body[1]/section[4]",
-      "section": "section-1"
+      "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing/contact-us",
+      "urlHash": "c81b572e82ad802670c91881f5272fc2c866c1b5",
+      "uuid": "c81b572e-02-1adad8cff9c0255693fc618c70f47d1ba0c0105b",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[2]/p[1]",
+      "section": "section-2"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-style",
-      "urlHash": "be00f351b0490d8b536bf724216d6530c30d5684",
-      "uuid": "be00f351-04-7c4b411c256121bb1e0e58c581250626ad209dca",
-      "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]"
+      "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing/contact-us",
+      "urlHash": "c81b572e82ad802670c91881f5272fc2c866c1b5",
+      "uuid": "c81b572e-04-411238bf89d530aeb5b5d3882e8900df89049ace",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[2]/div[4]/ul[2]",
+      "section": "section-2"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-      "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-      "uuid": "d2dd722d-01-70928af0e9d7f0ac1f13f2d60f543d2cf08783dd",
-      "xpath": "/html[1]/body[1]/header[1]/div[1]",
-      "section": "section-1"
+      "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing/contact-us",
+      "urlHash": "c81b572e82ad802670c91881f5272fc2c866c1b5",
+      "uuid": "c81b572e-05-8f00ea6a23017773ff0446d7cd14d7ad34fc6573",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[2]/div[4]/ul[3]",
+      "section": "section-2"
     },
     {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-      "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-      "uuid": "d2dd722d-02-8dc9ffffaa6c96d1ff24a16c0e569199c6af2c83",
-      "xpath": "/html[1]/body[1]/header[1]/div[2]/div[1]/div[1]/div[1]/div[1]/img[1]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-      "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-      "uuid": "d2dd722d-04-e1b10ab0abe0cee917fb232efd76c35d1967df5b",
-      "xpath": "/html[1]/body[1]/header[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-      "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-      "uuid": "d2dd722d-05-5da3d45aa5c90d25d5e3caeb9244a531f0a32b42",
-      "xpath": "/html[1]/body[1]/header[1]/div[2]/div[3]/div[1]/div[1]/div[1]/img[1]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-      "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-      "uuid": "d2dd722d-06-c498d593a5bc97467d867eb87705c763456c87bd",
-      "xpath": "/html[1]/body[1]/section[1]"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-      "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-      "uuid": "d2dd722d-07-f3bed983a6611794488e2f927319697f2e0241b2",
-      "xpath": "/html[1]/body[1]/section[2]/div[1]/div[1]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-      "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-      "uuid": "d2dd722d-09-7c4b411c256121bb1e0e58c581250626ad209dca",
-      "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/fashion-trends-young-adults",
-      "urlHash": "d2dd722de7842a6232ce56b1307d383ff72c9358",
-      "uuid": "d2dd722d-11-796e849cb17320ad9140c2a1b41bb8d247c7d309",
-      "xpath": "/html[1]/body[1]/section[4]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
-      "urlHash": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf",
-      "uuid": "f5bdda37-03-c37afa8fdd20f02a4ea7265ee714dd05fe6ac485",
-      "xpath": "/html[1]/body[1]/section[2]/div[1]/h2[1]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
-      "urlHash": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf",
-      "uuid": "f5bdda37-04-e97c734aee076578d83948d4d2f82cf448733d11",
-      "xpath": "/html[1]/body[1]/section[2]/div[1]/div[1]/div[1]",
-      "section": "section-1"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/blog/fashion-trends-young-culture",
-      "urlHash": "f5bdda3762c99b21ef3c8f0ca75cb53a00b4e8bf",
-      "uuid": "f5bdda37-06-7c4b411c256121bb1e0e58c581250626ad209dca",
-      "xpath": "/html[1]/body[1]/section[3]/div[1]/div[1]"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
-      "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
-      "uuid": "f5e20053-02-c498d593a5bc97467d867eb87705c763456c87bd",
-      "xpath": "/html[1]/body[1]/section[1]"
-    },
-    {
-      "url": "https://www.wknd-trendsetters.site/latest-trends-young-fashion",
-      "urlHash": "f5e200536a2c91b06effaf661df0675e13f262b6",
-      "uuid": "f5e20053-03-f3bed983a6611794488e2f927319697f2e0241b2",
-      "xpath": "/html[1]/body[1]/section[2]/div[1]/div[1]",
-      "section": "section-1"
+      "url": "https://www.marutisuzuki.com/more-from-us/maruti-suzuki-leasing/contact-us",
+      "urlHash": "c81b572e82ad802670c91881f5272fc2c866c1b5",
+      "uuid": "c81b572e-07-618a4a2701b72f43e6037974a53fbedd3ae15198",
+      "xpath": "/html[1]/body[1]/div[2]/div[3]/div[4]/div[1]/h2[1]",
+      "section": "section-2"
     }
   ],
   "sections": [
     {
       "name": "section-1",
-      "background": "rgb(247, 248, 245) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 56
+      "background": "rgba(0, 0, 0, 0) url(\"https://www.marutisuzuki.com/assets/maruti-suzuki-leasing/images/videoSectionBanner.jpg\") no-repeat scroll 0% 0% / cover padding-box border-box",
+      "count": 1
     },
     {
       "name": "section-2",
-      "background": "rgb(0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
-      "count": 20
+      "background": "rgb(0, 93, 174) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 11
+    },
+    {
+      "name": "section-3",
+      "background": "rgba(0, 0, 0, 0) url(\"https://marutistoragenew.blob.core.windows.net/msilintiwebimages/N2N/n2nMoblie.png?sv=2024-11-04&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2025-12-30T19:39:19Z&st=2025-06-23T11:39:19Z&spr=https&sig=Xfshu3IsWRsINWDXc7pUkMg%2Bp%2BYkHgGA1jZaZv5zTR0%3D\") no-repeat scroll 100% 0px / auto padding-box border-box",
+      "count": 1
     }
   ]
 }
